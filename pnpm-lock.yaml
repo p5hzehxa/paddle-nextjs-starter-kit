@@ -13,11 +13,11 @@ importers:
   .:
     dependencies:
       '@paddle/paddle-js':
-        specifier: ^1.4.2
-        version: 1.4.2
+        specifier: ^1.5.1
+        version: 1.5.1
       '@paddle/paddle-node-sdk':
-        specifier: ^3.2.1
-        version: 3.2.1
+        specifier: ^3.4.0
+        version: 3.4.0
       '@radix-ui/react-accordion':
         specifier: ^1.2.12
         version: 1.2.12(@types/react-dom@19.1.9(@types/react@19.1.13))(@types/react@19.1.13)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
@@ -427,11 +427,11 @@ packages:
     resolution: {integrity: sha512-nn5ozdjYQpUCZlWGuxcJY/KpxkWQs4DcbMCmKojjyrYDEAGy4Ce19NN4v5MduafTwJlbKc99UA8YhSVqq9yPZA==}
     engines: {node: '>=12.4.0'}
 
-  '@paddle/paddle-js@1.4.2':
-    resolution: {integrity: sha512-pY9jYS+g3vk6ecc7GbCsVSuBEo1Yh+hxYE4i2XoY5/ZBAZLuCkQi/80hOmSBkFoaETohOpDmurILlQdgUHUcvw==}
+  '@paddle/paddle-js@1.5.1':
+    resolution: {integrity: sha512-n5btAxhRt3ws0/7g8tlz5yH1kYbN3DRp4pKQD5F2hueovmn6rasxrlJJgd33+dI9amA2w2OjkV+mxuori4eEJA==}
 
-  '@paddle/paddle-node-sdk@3.2.1':
-    resolution: {integrity: sha512-0IfxqYCJLHyH7oCGbPWxIPxQKw4Zi6rg04UMvmN7EqlWdJi5RXfzFAqwGXK+3tqHYzEBpo3RxiL9B+k5gCt3Hw==}
+  '@paddle/paddle-node-sdk@3.4.0':
+    resolution: {integrity: sha512-oBgUo9o2PbVP5GUpLOzWtq9gYQqLzIVZ/gav7PqzrlC/9qRcNagOQ63kD050f3ts8+iSvONqiclMAWGF1aOGEA==}
     engines: {node: '>=20'}
 
   '@radix-ui/number@1.1.1':
@@ -2851,9 +2851,9 @@ snapshots:
 
   '@nolyfill/is-core-module@1.0.39': {}
 
-  '@paddle/paddle-js@1.4.2': {}
+  '@paddle/paddle-js@1.5.1': {}
 
-  '@paddle/paddle-node-sdk@3.2.1': {}
+  '@paddle/paddle-node-sdk@3.4.0': {}
 
   '@radix-ui/number@1.1.1': {}
 
